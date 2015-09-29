@@ -6,3 +6,5 @@
 英文例子：http://www.scala-lang.org/docu/files/ScalaByExample.pdf
 
 effective scala:http://twitter.github.io/effectivescala/index-cn.html
+
+Type-Level Programming in Scala(scala类型系统):https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/
