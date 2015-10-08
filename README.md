@@ -10,3 +10,6 @@ effective scala:http://twitter.github.io/effectivescala/index-cn.html
 Type-Level Programming in Scala(scala类型系统):https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/
 
 scala各种集合的时间复杂度： http://www.scala-lang.org/docu/files/collections-api/collections_40.html
+
+##兴趣
+一个语言爱好者的bucket list (Scala篇) http://www.jianshu.com/p/1614ca1a6221
