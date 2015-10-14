@@ -13,7 +13,7 @@ scala各种集合的时间复杂度： http://www.scala-lang.org/docu/files/coll
 
 书籍：http://www.scala-lang.org/documentation/books.html
 
-Programming in Scala ： http://www.artima.com/pins1ed/
+Programming in Scala ： http://www.artima.com/pins1ed/  中文： http://www.cnblogs.com/cxccbv/archive/2009/07/16/1524741.html
 
 ##兴趣
 一个语言爱好者的bucket list (Scala篇) http://www.jianshu.com/p/1614ca1a6221
